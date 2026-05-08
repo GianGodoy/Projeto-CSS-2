@@ -5,3 +5,7 @@
 <br>
 <p>Nesse projeto aprendi a fazer um site responsivo, onde ele pode ser acessado por PC ou Smartphone.</p>
 <p>Tecnologias usadas: HTML e CSS</p>
+<br>
+<img src="https://github.com/GianGodoy/Projeto-CSS-Responsivo/blob/main/Sem%20t%C3%ADtulo%202.png?raw=true">
+<img src="https://github.com/GianGodoy/Projeto-CSS-Responsivo/blob/main/Sem%20t%C3%ADtulo.png?raw=true">
+
